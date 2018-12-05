@@ -8,7 +8,7 @@ Following the CNCF model, we are providing artwork in standard formats for the L
 ## LF DL Incubation Project Logos
 <img src="/angel/horizontal/color/angelML-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/angel/stacked/color/angelML-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/angel/icon/color/angelML-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/paddlepaddle/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/paddlepaddle/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/paddlepaddle/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 ## LF DL Logos
 

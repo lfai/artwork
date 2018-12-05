@@ -1,2 +1,23 @@
 # LF DL Related Logos and Artwork 
-Following the CNCF model, in this repo, we will have artwork in standard formats for the LF DL projects and programs.
+Following the CNCF model, we are providing artwork in standard formats for the LF DL projects and programs. In this repo, we have artwork in standard formats for the LF DL [projects](https://deeplearningfoundation.org/projects/) and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos. 
+
+
+## LF DL Graduation Project Logos
+<img src="/acumos/horizontal/color/acumosAI-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/acumos/stacked/color/acumosAI-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/acumos/icon/color/acumosAI-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+## LF DL Incubation Project Logos
+<img src="/angel/horizontal/color/angelML-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/angel/stacked/color/angelML-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/angel/icon/color/angelML-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/paddlepaddle/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/paddlepaddle/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/paddlepaddle/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+## LF DL Logos
+
+<img src="/lfdl/horizontal/color/lfdl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl/stacked/color/lfdl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl/icon/color/lfdl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/lfdl-landscape/horizontal/color/lfdl-landscape-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/stacked/color/lfdl-landscape-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/icon/color/lfdl-landscape-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
+## 
+Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
+
+Questions? Please email info@deeplearningfoundation.org.

@@ -10,6 +10,9 @@ Following the CNCF model, we are providing artwork in standard formats for the L
 
 <img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+
+<img src="/horovod/horizontal/color/horovod-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/horovod/stacked/color/horovod-horizontal-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/horovod/icon/color/horovod-horizontal-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 ## LF DL Logos
 
 <img src="/lfdl/horizontal/color/lfdl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl/stacked/color/lfdl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl/icon/color/lfdl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

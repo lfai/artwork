@@ -18,6 +18,9 @@ In this repo, we provide artwork in standard formats for the LF DL [projects](ht
 
 <img src="/lfdl-landscape/horizontal/color/lfdl-landscape-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/stacked/color/lfdl-landscape-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl-landscape/icon/color/lfdl-landscape-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+## LF DL Membership Badges
+
+<img src="/lfdl-membership-badge/lfdl_mem_premier.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-membership-badge/lfdl_mem_general.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      
 
 ## 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage

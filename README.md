@@ -20,7 +20,7 @@ In this repo, we provide artwork in standard formats for the LF DL [projects](ht
 
 ## LF DL Membership Badges
 
-<img src="/lfdl-membership-badge/lfdl_mem_premier.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-membership-badge/lfdl_mem_general.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      
+<img src="/lfdl-membership-badge/premier/lfdl_mem_premier.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfdl-membership-badge/general/lfdl_mem_general.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      
 
 ## 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage

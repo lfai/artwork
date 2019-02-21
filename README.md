@@ -12,6 +12,8 @@ In this repo, we provide artwork in standard formats for the LF DL [projects](ht
 
 <img src="/horovod/horizontal/color/horovod-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/horovod/stacked/color/horovod-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/horovod/icon/color/horovod-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/pyro/horizontal/color/pyro-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/pyro/stacked/color/pyro-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/pyro/icon/color/pyro-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 ## LF DL Logos
 
 <img src="/lfdl/horizontal/color/lfdl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfdl/stacked/color/lfdl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfdl/icon/color/lfdl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

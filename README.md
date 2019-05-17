@@ -27,4 +27,4 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 ## 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
-Questions? Please email info@lfdl.io.
+Questions? Please email info@lfai.foundation.

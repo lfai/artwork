@@ -24,6 +24,9 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/lfai-membership-badge/premier/lfai-memberlogos_premier-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfai-membership-badge/general/lfai-memberlogos_general-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">     &nbsp;  &nbsp;  &nbsp; <img src="/lfai-membership-badge/associate/lfai-memberlogos_associate-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">    
 
+## LF AI Project Badges
+<img src="/lfai-project-badge/graduate/color/lfai-projectlogos_graduate-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%"> &nbsp;  &nbsp;  &nbsp; <img src="/lfai-project-badge/incubation/color/lfai-projectlogos_incubation-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      
+
 ## 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 

@@ -19,6 +19,9 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/pyro/horizontal/color/pyro-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/pyro/stacked/color/pyro-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/pyro/icon/color/pyro-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/sparklyr/horizontal/color/sparklyr-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/stacked/color/sparklyr-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/icon/color/sparklyr-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
 ## LF AI Logos
 
 <img src="/lfai/horizontal/color/lfai-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/lfai/stacked/color/lfai-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/lfai/icon/color/lfai-ico-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

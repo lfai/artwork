@@ -15,6 +15,9 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/forestflow/horizontal/color/forestflow-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/forestflow/stacked/color/forestflow-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/forestflow/icon/color/forestflow-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
 <img src="/horovod/horizontal/color/horovod-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/horovod/stacked/color/horovod-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/horovod/icon/color/horovod-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/milvus/horizontal/color/milvus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/milvus/stacked/color/milvus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/milvus/icon/color/milvus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

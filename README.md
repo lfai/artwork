@@ -24,6 +24,9 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/marquez/color/horizontal/marquez-horizontal_color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/marquez/color/stacked/marquez_stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/marquez/color/icon/Marquez_LogoMaster_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/nnstreamer/horizontal/color/nnstreamer-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nnstreamer/stacked/color/nnstreamer-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nnstreamer/icon/color/nnstreamer-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+
 <img src="/pyro/horizontal/color/pyro-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/pyro/stacked/color/pyro-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/pyro/icon/color/pyro-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/sparklyr/color/sparklyr-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/color/sparklyr-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/color/sparklyr-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

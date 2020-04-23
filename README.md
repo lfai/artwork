@@ -3,7 +3,7 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 
 ## LF AI Graduation Project Logos
-<img src="/acumos/horizontal/color/acumosAI-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/acumos/stacked/color/acumosAI-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/acumos/icon/color/acumosAI-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/acumos/horizontal/color/acumos-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/acumos/stacked/color/acumos-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/acumos/icon/color/acumosAI-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="onnx/horizontal/color/onnx-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/onnx/stacked/color/onnx-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/onnx/icon/color/onnx-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 

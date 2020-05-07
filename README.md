@@ -9,7 +9,7 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 
 ## LF AI Incubation Project Logos
-<img src="/adlik/color/adlik_color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/adlik/color/adlik_color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/adlik/color/adlik_color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/adlik/color/adlik_color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/adlik/color/adlik_color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/adlik/icon/PNG/Adlik_LogoMaster_icon%20color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/angel/horizontal/color/angelML-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/angel/stacked/color/angelML-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/angel/icon/color/angelML-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 

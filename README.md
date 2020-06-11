@@ -18,7 +18,7 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/horovod/horizontal/color/horovod-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/horovod/stacked/color/horovod-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/horovod/icon/color/horovod-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/ludwig/horizontal/ludwig-empty.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/lfai/artwork/blob/master/ludwig/icon/ludwig-full-icon.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+<img src="/ludwig/horizontal/ludwig-empty.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="https://github.com/lfai/artwork/blob/master/ludwig/icon/ludwig-empty-icon.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/marquez/color/horizontal/marquez-horizontal_color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/marquez/color/stacked/marquez_stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/marquez/color/icon/Marquez_LogoMaster_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 

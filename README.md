@@ -44,6 +44,8 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/sparklyr/color/sparklyr-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/color/sparklyr-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/sparklyr/color/sparklyr-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/soajs/horizontal/color/soajs_horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/soajs/stacked/color/soajs_stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/soajs/icon/color/soajs_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 
 ## LF AI Logos
 

@@ -20,11 +20,11 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/amundsen/horizontal/color/amundsen-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/amundsen/stacked/color/amundsen-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/amundsen/icon/color/amundsen-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
-<img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
-
-
 <img src="/delta/horizontal/color/delta-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/delta/stacked/color/delta-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/delta/icon/color/delta-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/edl/horizontal/color/edl-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/edl/stacked/color/edl-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/edl/icon/color/edl-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="/feast/horizontal/color/feast_horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/feast/stacked/color/feast_stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/feast/icon/color/feast_icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/forestflow/horizontal/color/forestflow-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/forestflow/stacked/color/forestflow-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/forestflow/icon/color/forestflow-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 

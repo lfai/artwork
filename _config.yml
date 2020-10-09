@@ -6,5 +6,3 @@ description: >-
 # Settings
 github_repo: https://github.com/lfai/artwork
 top_logo: other/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
-
-theme: jekyll-theme-minimal

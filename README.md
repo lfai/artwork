@@ -7,6 +7,8 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 
 <img src="/angel/horizontal/color/angelML-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/angel/stacked/color/angelML-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/angel/icon/color/angelML-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
+<img src="/egeria/horizontal/color/egeria-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp;  <img src="/egeria/icon/color/egeria-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
 <img src="onnx/horizontal/color/onnx-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/onnx/stacked/color/onnx-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/onnx/icon/color/onnx-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 ## LF AI Incubation Project Logos
@@ -38,6 +40,8 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 <img src="/milvus/horizontal/color/milvus-horizontal-color.png" width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/milvus/stacked/color/milvus-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/milvus/icon/color/milvus-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 <img src="/nnstreamer/horizontal/color/nnstreamer-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/nnstreamer/stacked/color/nnstreamer-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/nnstreamer/icon/color/nnstreamer-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
+
+<img src="opends4all/horizontal/color/opends4all-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/opends4all/icon/color/opends4all-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">
 
 
 <img src="/pyro/horizontal/color/pyro-horizontal-color.png"  width="200" style="display:inline;vertical-align:middle;padding:2%">      &nbsp;  &nbsp;  &nbsp; <img src="/pyro/stacked/color/pyro-stacked-color.png" width="120" style="display:inline;vertical-align:middle;padding:2%">&nbsp;  &nbsp;  &nbsp; <img src="/pyro/icon/color/pyro-icon-color.png" width="75" style="display:inline;vertical-align:middle;padding:2%">

@@ -26,6 +26,13 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 - [soajs](projects#soajs)
 - [Sparklyr](projects#sparklyr)
 
+## Other Logos
+  - [LF AI and Data Foundation](other#lf-ai-and-data-foundation)
+  - [LF AI and Data Landscape](other#lf-ai-and-data-landscape)
+  - [LF AI and Data Foundation Member](other#lf-ai-and-data-foundation-member)
+  - [LF AI and Data Project](other#lf-ai-and-data-project)
+  - [Linux Foundation Member Logos](other#linux-foundation-member-logos)
+  
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email info@lfai.foundation.

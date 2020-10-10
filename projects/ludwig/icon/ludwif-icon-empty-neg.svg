@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Ludwig empty neg icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Logo-final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ludwig-empty-neg-icon" fill-rule="nonzero">
+            <rect id="Background" fill="#404040" x="20" y="20" width="140" height="140"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="40" y="40" width="20" height="100"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="40" y="120" width="100" height="20"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="80" y="80" width="60" height="20"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="80" y="80" width="60" height="20"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="120" y="40" width="20" height="60"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="80" y="40" width="20" height="60"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="20" height="180"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="180" height="20"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="160" width="180" height="20"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="160" y="0" width="20" height="180"></rect>
+        </g>
+    </g>
+</svg>

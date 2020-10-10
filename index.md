@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LF AI & Data Logos
+title: Home 
 permalink: /
 ---
 
@@ -13,25 +13,25 @@ permalink: /
 
 <h3>Graduated Projects</h3>
 
-<a href="projects#acumos">
+<a href="projects/acumos">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/acumos/horizontal/color/acumos-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#angel">
+<a href="projects/angel">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/angel/horizontal/color/angel-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#egeria">
+<a href="projects/egeria">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/egeria/horizontal/color/egeria-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#onnx">
+<a href="projects/onnx">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/onnx/horizontal/color/onnx-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
@@ -40,109 +40,109 @@ permalink: /
 
 <h3>Incubation Projects</h3>
 
-<a href="projects#adlik">
+<a href="projects/adlik">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/adlik/horizontal/color/adlik-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#adversarial-robustness-toolbox">
+<a href="projects/adversarial-robustness-toolbox">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/adversarial-robustness-toolbox/horizontal/color/adversarial-robustness-toolbox-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#ai-explainability-360">
+<a href="projects/ai-explainability-360">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/ai-explainability-360/horizontal/color/ai-explainability-360-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#ai-fairness-360">
+<a href="projects/ai-fairness-360">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/ai-fairness-360/horizontal/color/ai-fairness-360-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#amundsen">
+<a href="projects/amundsen">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/amundsen/horizontal/color/amundsen-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#delta">
+<a href="projects/delta">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/delta/horizontal/color/delta-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#edl">
+<a href="projects/edl">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/edl/horizontal/color/edl-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#feast">
+<a href="projects/feast">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/feast/horizontal/color/feast-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#forestflow">
+<a href="projects/forestflow">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/forestflow/horizontal/color/forestflow-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#horovod">
+<a href="projects/horovod">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/horovod/horizontal/color/horovod-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#ludwig">
+<a href="projects/ludwig">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/ludwig/horizontal/ludwig-horizontal-full.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#marquez">
+<a href="projects/marquez">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/marquez/horizontal/color/marquez-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#milvus">
+<a href="projects/milvus">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/milvus/horizontal/color/milvus-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#nnstreamer">
+<a href="projects/nnstreamer">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/nnstreamer/horizontal/color/nnstreamer-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#opends4all">
+<a href="projects/opends4all">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/opends4all/horizontal/color/opends4all-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#pyro">
+<a href="projects/pyro">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/pyro/horizontal/color/pyro-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#soajs">
+<a href="projects/soajs">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/soajs/horizontal/color/soajs-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="projects#sparklyr">
+<a href="projects/sparklyr">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/sparklyr/color/sparklyr-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
@@ -150,31 +150,31 @@ permalink: /
 
 <h3>Other Logos</h3>
 
-<a href="other#lf-ai-and-data-foundation">
+<a href="other/lfaidata">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata/horizontal/color/lfaidata-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other#lf-ai-and-data-landscape">
+<a href="other/lfaidata-landscape">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-landscape/horizontal/color/lfaidata-landscape-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other#lf-ai-and-data-foundation-member">
+<a href="other/lfaidata-membership-badge">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-membership-badge/premier/color/lfaidata-membership-badge-premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other#lf-ai-and-data-project">
+<a href="other/lfaidata-project-badge">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-project-badge/graduate/color/lfaidata-project-badge-graduate-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other#linux-foundation-member-logos">
+<a href="other/lf-member">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>

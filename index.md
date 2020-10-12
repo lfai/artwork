@@ -150,33 +150,33 @@ permalink: /
 
 <h3>Other Logos</h3>
 
-<a href="other/lfaidata">
+<a href="lfaidata-assets/lfaidata">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata/horizontal/color/lfaidata-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lfaidata/horizontal/color/lfaidata-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other/lfaidata-landscape">
+<a href="lfaidata-assets/lfaidata-landscape">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-landscape/horizontal/color/lfaidata-landscape-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lfaidata-landscape/horizontal/color/lfaidata-landscape-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other/lfaidata-membership-badge">
+<a href="lfaidata-assets/lfaidata-membership-badge">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-membership-badge/premier/color/lfaidata-membership-badge-premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lfaidata-membership-badge/premier/color/lfaidata-membership-badge-premier-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other/lfaidata-project-badge">
+<a href="lfaidata-assets/lfaidata-project-badge">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lfaidata-project-badge/graduate/color/lfaidata-project-badge-graduate-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lfaidata-project-badge/graduate/color/lfaidata-project-badge-graduate-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
-<a href="other/lf-member">
+<a href="lfaidata-assets/lf-member">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="other/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

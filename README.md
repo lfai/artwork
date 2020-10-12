@@ -27,11 +27,11 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 - [Sparklyr](projects/sparklyr)
 
 ## Other Logos
-- [LF AI and Data Foundation](other/lfaidata)
-- [LF AI and Data Landscape](other/lfaidata-landscape)
-- [LF AI and Data Foundation Member](other/lfaidata-membership-badge)
-- [LF AI and Data Project](other/lfaidata-project-badge)
-- [Linux Foundation Member Logos](other/lf-member)
+- [LF AI and Data Foundation](lfaidata-assets/lfaidata)
+- [LF AI and Data Landscape](lfaidata-assets/lfaidata-landscape)
+- [LF AI and Data Foundation Member](lfaidata-assets/lfaidata-membership-badge)
+- [LF AI and Data Project](lfaidata-assets/lfaidata-project-badge)
+- [Linux Foundation Member Logos](lfaidata-assets/lf-member)
   
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 

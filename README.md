@@ -10,6 +10,7 @@ In this repo, we provide artwork in standard formats for the LF AI projects and 
 - [AI Fairness 360](projects/ai-fairness-360)
 - [Amundsen](projects/amundsen)
 - [Angel ML](projects/angel-ml)
+- [DataPractices.org](projects/data-practices-org)
 - [Delta](projects/delta)
 - [Elastic Deep Learning](projects/elastic-deep-learning)
 - [Egeria](projects/egeria)

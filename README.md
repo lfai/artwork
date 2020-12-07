@@ -17,6 +17,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Feast](projects/feast)
 - [ForestFlow](projects/forestflow)
 - [Horovod](projects/horovod)
+- [JanusGraph](projects/janusgraph)
 - [Ludwig](projects/ludwig)
 - [Marquez](projects/marquez)
 - [Milvus](projects/milvus)
@@ -28,6 +29,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Sparklyr](projects/sparklyr)
 
 ## Other Logos
+
 - [LF AI and Data Foundation](lfaidata-assets/lfaidata)
 - [LF AI and Data Landscape](lfaidata-assets/lfaidata-landscape)
 - [LF AI and Data Foundation Member](lfaidata-assets/lfaidata-membership-badge)

@@ -106,6 +106,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/janusgraph">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/janusgraph/horizontal/color/janusgraph-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/ludwig">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/ludwig/horizontal/ludwig-horizontal-full.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>

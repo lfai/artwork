@@ -70,6 +70,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/datapractices">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/datapractices/horizontal/color/datapractices-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/delta">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/delta/horizontal/color/delta-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>

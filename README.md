@@ -35,7 +35,8 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [LF AI and Data Foundation Member](lfaidata-assets/lfaidata-membership-badge)
 - [LF AI and Data Project](lfaidata-assets/lfaidata-project-badge)
 - [Linux Foundation Member Logos](lfaidata-assets/lf-member)
-  
+- [Egeria Conformance](lfaidata-assets/egeria-conformance)
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email info@lfai.foundation.

@@ -37,6 +37,7 @@ section {
   text-align: center;
   display: table-cell;
 }
+
 .imagesquare {
   border:1px solid #aaaaaa;
   margin:1%;
@@ -45,13 +46,13 @@ section {
   display: table-cell;
 }
 
-a {
-  color:white;
-  text-decoration:none;
+.imagesquare img {
+  max-height: 200px;
 }
 
-section a {
-  color: blue;
+.page-header a {
+  color:white;
+  text-decoration:none;
 }
 
 h1 {

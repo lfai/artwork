@@ -6,3 +6,9 @@ description: >-
 # Settings
 github_repo: https://github.com/lfai/artwork
 top_logo: lfaidata-assets/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

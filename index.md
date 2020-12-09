@@ -8,7 +8,7 @@ permalink: /
 <div class="logos">
 <h2>LF AI & Data Foundation Logos</h2>
     
-<p>Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@lfenergy.org">info@lfenergy.org</a>.</p>
+<p>Use of any trademark or logo is subject to the trademark policy available at <a href="https://www.linuxfoundation.org/trademark-usage">https://www.linuxfoundation.org/trademark-usage</a> with the key excepts available at <a href="LICENSE.md">LICENSE.md</a>. Questions? Please email <a href="mailto:info@lfaidata.foundation">info@lfaidata.foundation</a>.</p>
 <p>We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos.</p>
 
 <h3>Graduated Projects</h3>
@@ -189,6 +189,12 @@ permalink: /
 <a href="lfaidata-assets/lf-member">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/lf-member/platinum/lf_mem_plat.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="lfaidata-assets/egeria-conformance">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="lfaidata-assets/egeria-conformance/color/egeria-conformance-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

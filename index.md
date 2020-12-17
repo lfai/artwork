@@ -37,6 +37,11 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/pyro">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/pyro/horizontal/color/pyro-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 
 <h3>Incubation Projects</h3>
 
@@ -139,12 +144,6 @@ permalink: /
 <a href="projects/opends4all">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/opends4all/horizontal/color/opends4all-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
-<a href="projects/pyro">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/pyro/horizontal/color/pyro-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

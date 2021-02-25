@@ -94,6 +94,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/flyte">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/flyte/horizontal/color/flyte-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/forestflow">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/forestflow/horizontal/color/forestflow-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>

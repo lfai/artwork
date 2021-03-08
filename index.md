@@ -81,6 +81,11 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/datashim">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/datashim/horizontal/color/datashim-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 <a href="projects/delta">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/delta/horizontal/color/delta-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>

@@ -11,6 +11,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Amundsen](projects/amundsen)
 - [Angel ML](projects/angel)
 - [DataPractices](projects/datapractices)
+- [Datashim](projects/datashim)
 - [Delta](projects/delta)
 - [Elastic Deep Learning](projects/edl)
 - [Egeria](projects/egeria)

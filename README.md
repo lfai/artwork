@@ -27,6 +27,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [ONNX](projects/onnx)
 - [OpenDS4All](projects/opends4all)
 - [Pyro](projects/pyro)
+- [RosaeNLG](projects/rosaenlg)
 - [soajs](projects/soajs)
 - [Sparklyr](projects/sparklyr)
 

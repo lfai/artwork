@@ -6,16 +6,14 @@
 	<thead>
 		<tr>
 			<th></th>
-			<th colspan="3">PNG</th>
-			<th colspan="3">SVG</th>
+			<th colspan="2">PNG</th>
+			<th colspan="2">SVG</th>
 		</tr>
 		<tr>
 			<th></th>
 			<th>horizontal</th>
-			<th>stacked</th>
 			<th>icon</th>
 			<th>horizontal</th>
-			<th>stacked</th>
 			<th>icon</th>
 		</tr>
 	</thead>	

@@ -33,19 +33,19 @@
 			<th>white</th>
 			<td><a href="graduate/white/lfaidata-project-badge-graduate-white.png" download><img src="graduate/white/lfaidata-project-badge-graduate-white.png" width="200"></a></td>
 			<td><a href="incubation/white/lfaidata-project-badge-incubation-white.png" download><img src="incubation/white/lfaidata-project-badge-incubation-white.png" width="200"></a></td>
-			<td><a href="sandbox/white/lfaidata-project-badge-sandbox-white.png" download><img src="sandbox/color/lfaidata-project-badge-sandbox-white.png" width="200"></a></td>
+			<td><a href="sandbox/white/lfaidata-project-badge-sandbox-white.png" download><img src="sandbox/white/lfaidata-project-badge-sandbox-white.png" width="200"></a></td>
 			<td><a href="graduate/white/lfaidata-project-badge-graduate-white.svg" download><img src="graduate/white/lfaidata-project-badge-graduate-white.svg" width="200"></a></td>
 			<td><a href="incubation/white/lfaidata-project-badge-incubation-white.svg" download><img src="incubation/white/lfaidata-project-badge-incubation-white.svg" width="200"></a></td>
-			<td><a href="sandbox/white/lfaidata-project-badge-sandbox-white.svg" download><img src="sandbox/color/lfaidata-project-badge-sandbox-white.svg" width="200"></a></td>
+			<td><a href="sandbox/white/lfaidata-project-badge-sandbox-white.svg" download><img src="sandbox/white/lfaidata-project-badge-sandbox-white.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
 			<td><a href="graduate/black/lfaidata-project-badge-graduate-black.png" download><img src="graduate/black/lfaidata-project-badge-graduate-black.png" width="200"></a></td>
 			<td><a href="incubation/black/lfaidata-project-badge-incubation-black.png" download><img src="incubation/black/lfaidata-project-badge-incubation-black.png" width="200"></a></td>
-			<td><a href="sandbox/black/lfaidata-project-badge-sandbox-black.png" download><img src="sandbox/color/lfaidata-project-badge-sandbox-black.png" width="200"></a></td>
+			<td><a href="sandbox/black/lfaidata-project-badge-sandbox-black.png" download><img src="sandbox/black/lfaidata-project-badge-sandbox-black.png" width="200"></a></td>
 			<td><a href="graduate/black/lfaidata-project-badge-graduate-black.svg" download><img src="graduate/black/lfaidata-project-badge-graduate-black.svg" width="200"></a></td>
 			<td><a href="incubation/black/lfaidata-project-badge-incubation-black.svg" download><img src="incubation/black/lfaidata-project-badge-incubation-black.svg" width="200"></a></td>
-			<td><a href="sandbox/black/lfaidata-project-badge-sandbox-black.svg" download><img src="sandbox/color/lfaidata-project-badge-sandbox-black.svg" width="200"></a></td>
+			<td><a href="sandbox/black/lfaidata-project-badge-sandbox-black.svg" download><img src="sandbox/black/lfaidata-project-badge-sandbox-black.svg" width="200"></a></td>
 		</tr>
 	</tbody>
 </table>

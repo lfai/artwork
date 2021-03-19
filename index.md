@@ -31,6 +31,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/horovod">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/horovod/horizontal/color/horovod-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <a href="projects/onnx">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/onnx/horizontal/color/onnx-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>

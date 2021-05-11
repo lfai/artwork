@@ -42,3 +42,27 @@
 	</tbody>	
 </table>
 
+## Badges
+
+<table class="logos-table">
+	<thead>
+		<tr>
+			<th></th>
+			<th>PNG</th>
+			<th>SVG</th>
+		</tr>
+	</thead>	
+    <tbody>
+		<tr>
+			<th>Committer</th>
+			<td><a href="badge/committer/color/opends4all-badge-committer-color.png" download><img src="badge/committer/color/opends4all-badge-committer-color.png" width="200"></a></td>
+			<td><a href="badge/committer/color/opends4all-badge-committer-color.svg" download><img src="badge/committer/color/opends4all-badge-committer-color.svg" width="200"></a></td>
+		</tr>
+	        <tr>
+			<th>TSC members</th>
+			<td><a href="badge/tsc/color/opends4all-badge-tsc-color.png" download><img src="badge/tsc/color/opends4all-badge-tsc-color.png" width="200"></a></td>
+			<td><a href="badge/tsc/color/opends4all-badge-tsc-color.svg" download><img src="badge/tsc/color/opends4all-badge-tsc-color.svg" width="200"></a></td>
+		</tr>
+	</tbody>	
+</table>
+

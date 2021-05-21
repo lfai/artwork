@@ -54,9 +54,9 @@
 	</thead>	
     <tbody>
 		<tr>
-			<th>Committer</th>
-			<td><a href="badge/committer/color/opends4all-badge-committer-color.png" download><img src="badge/committer/color/opends4all-badge-committer-color.png" width="200"></a></td>
-			<td><a href="badge/committer/color/opends4all-badge-committer-color.svg" download><img src="badge/committer/color/opends4all-badge-committer-color.svg" width="200"></a></td>
+			<th>Contributor</th>
+			<td><a href="badge/contributor/color/opends4all-badge-contributor-color.png" download><img src="badge/contributor/color/opends4all-badge-contributor-color.png" width="200"></a></td>
+			<td><a href="badge/contributor/color/opends4all-badge-contributor-color.svg" download><img src="badge/contributor/color/opends4all-badge-contributor-color.svg" width="200"></a></td>
 		</tr>
 	        <tr>
 			<th>TSC members</th>

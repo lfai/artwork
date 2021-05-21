@@ -184,6 +184,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/mlx">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/mlx/stacked/color/mlx-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <h3>Other Logos</h3>
 
 <a href="lfaidata-assets/lfaidata">

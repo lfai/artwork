@@ -24,6 +24,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Machine Learning Exchange](projects/mlx)
 - [Marquez](projects/marquez)
 - [Milvus](projects/milvus)
+- [Machine Learning eXchange](projects/mlx)
 - [NNStreamer](projects/nnstreamer)
 - [ONNX](projects/onnx)
 - [OpenDS4All](projects/opends4all)

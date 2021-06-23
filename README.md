@@ -31,6 +31,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Pyro](projects/pyro)
 - [RosaeNLG](projects/rosaenlg)
 - [soajs](projects/soajs)
+- [substra](projects/substra)
 - [Sparklyr](projects/sparklyr)
 
 ## Other Logos

@@ -1,1 +1,1 @@
-Added Datashim
+Added Substra logos

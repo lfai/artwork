@@ -15,7 +15,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Delta](projects/delta)
 - [Elastic Deep Learning](projects/edl)
 - [Egeria](projects/egeria)
-- [feast](projects/feast)
+- [Feast](projects/feast)
 - [Flyte](projects/flyte)
 - [ForestFlow](projects/forestflow)
 - [Horovod](projects/horovod)
@@ -30,8 +30,8 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [OpenLineage](projects/openlineage)
 - [Pyro](projects/pyro)
 - [RosaeNLG](projects/rosaenlg)
-- [soajs](projects/soajs)
-- [substra](projects/substra)
+- [SOAJS](projects/soajs)
+- [Substra](projects/substra)
 - [Sparklyr](projects/sparklyr)
 
 ## Other Logos

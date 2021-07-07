@@ -23,11 +23,11 @@
 		<tr>
 			<th>color</th>
 			<td><a href="horizontal/color/openlineage-horizontal-color.png" download><img src="horizontal/color/openlineage-horizontal-color.png" width="200"></a></td>
-			<td><a href="stacked/color/openlineage-stacked-color.png" download><img src="stacked/color/openlineage-stacked-color.png" width="95"></a></td>
-			<td><a href="icon/color/openlineage-icon-color.png" download><img src="icon/color/openlineage-icon-color.png" width="75"></a></td>
+			<td>N/A</td>
+			<td>N/A</td>
 			<td><a href="horizontal/color/openlineage-horizontal-color.svg" download><img src="horizontal/color/openlineage-horizontal-color.svg" width="200"></a></td>
-			<td><a href="stacked/color/openlineage-stacked-color.svg" download><img src="stacked/color/openlineage-stacked-color.svg" width="95"></a></td>
-			<td><a href="icon/color/openlineage-icon-color.png" download><img src="icon/color/openlineage-icon-color.png" width="75"></a></td>
+			<td>N/A</td>
+			<td>N/A</td>
 		</tr>
 		<tr>
 			<th>white</th>

@@ -1,0 +1,11 @@
+<open lineage>
+  - horizontal
+    - color
+      <open lineage>-horizontal-color.svg
+      <open lineage>-horizontal-color.svg
+    - white
+      <project name>-horizontal-white.svg
+      <open lineage>-horizontal-white.svg
+    - black
+      <open lineage>-horizontal-black.svg
+      <open lineage>-horizontal-black.svg

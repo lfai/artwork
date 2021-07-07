@@ -27,7 +27,6 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [NNStreamer](projects/nnstreamer)
 - [ONNX](projects/onnx)
 - [OpenDS4All](projects/opends4all)
-- [OpenLineage](projects/openlineage)
 - [Pyro](projects/pyro)
 - [RosaeNLG](projects/rosaenlg)
 - [SOAJS](projects/soajs)

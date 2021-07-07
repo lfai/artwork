@@ -176,6 +176,12 @@ permalink: /
 </div>
 </a>
 
+<a href="projects/substra">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/substra/color/substra-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
 <h3>Sandbox Projects</h3>
 
 <a href="projects/openlineage">

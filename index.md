@@ -178,6 +178,12 @@ permalink: /
 
 <h3>Sandbox Projects</h3>
 
+<a href="projects/openlineage">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/openlineage/horizontal/color/openlineage-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+    
 <a href="projects/rosaenlg">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/rosaenlg/horizontal/color/RosaeNLG-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>

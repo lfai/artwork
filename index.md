@@ -178,7 +178,13 @@ permalink: /
 
 <a href="projects/substra">
 <div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/substra/color/substra-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/substra/horizontal/color/substra-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
+
+<a href="projects/tony">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/tony/stacked/color/TonY-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

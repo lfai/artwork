@@ -189,6 +189,11 @@ permalink: /
 </a>
 
 <h3>Sandbox Projects</h3>
+<a href="projects/kompute">
+<div class="outer-wrapper">
+<div class="imagesquare"><div class="imagecontainer"><img src="projects/kompute/horizontal/color/kompute-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
+</div>
+</a>
 
 <a href="projects/openlineage">
 <div class="outer-wrapper">

@@ -20,6 +20,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [ForestFlow](projects/forestflow)
 - [Horovod](projects/horovod)
 - [JanusGraph](projects/janusgraph)
+- [Kompute](projects/kompute)
 - [Ludwig](projects/ludwig)
 - [Machine Learning Exchange](projects/mlx)
 - [Marquez](projects/marquez)

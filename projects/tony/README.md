@@ -26,10 +26,10 @@
 			<td><a href="stacked/black/TonY-stacked-black.svg" download><img src="stacked/black/TonY-stacked-black.svg" width="75"></a></td>
 		</tr>
 			<th>Color</th>
-			<td><a href="icon/color/TonY-color-black.png" download><img src="icon/color/TonY-icon-color.png" width="200"></a></td>
-	<td><a href="stacked/color/TonY-stacked-black.png" download><img src="stacked/color/TonY-stacked-color.png" width="75"></a></td>
-			<td><a href="icon/color/TonY-color-black.svg" download><img src="icon/color/TonY-icon-color.svg" width="200"></a></td>
-	<td><a href="stacked/color/TonY-stacked-black.svg" download><img src="stacked/color/TonY-stacked-color.svg" width="75"></a></td>
+			<td><a href="icon/color/TonY-icon-color.png" download><img src="icon/color/TonY-icon-color.png" width="200"></a></td>
+	<td><a href="stacked/color/TonY-stacked-color.png" download><img src="stacked/color/TonY-stacked-color.png" width="75"></a></td>
+			<td><a href="icon/color/TonY-icon-color.svg" download><img src="icon/color/TonY-icon-color.svg" width="200"></a></td>
+	<td><a href="stacked/color/TonY-stacked-color.svg" download><img src="stacked/color/TonY-stacked-color.svg" width="75"></a></td>
 		</tr>
 		<tr>
 			<th>White</th>

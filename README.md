@@ -28,6 +28,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Milvus](projects/milvus)
 - [NNStreamer](projects/nnstreamer)
 - [ONNX](projects/onnx)
+- [OpenBytes](projects/openbytes)
 - [OpenDS4All](projects/opends4all)
 - [OpenLineage](projects/openlineage)
 - [Pyro](projects/pyro)

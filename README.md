@@ -3,6 +3,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 
 ## Projects
 
+- [1chipML](projects/1chipML)
 - [Acumos](projects/acumos)
 - [Adlik](projects/adlik)
 - [Adversarial Robustness Toolbox](projects/adversarial-robustness-toolbox)

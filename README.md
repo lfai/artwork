@@ -17,6 +17,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Elastic Deep Learning](projects/edl)
 - [Egeria](projects/egeria)
 - [Feast](projects/feast)
+- [FlagAI](projects/flagai)
 - [Flyte](projects/flyte)
 - [ForestFlow](projects/forestflow)
 - [Horovod](projects/horovod)

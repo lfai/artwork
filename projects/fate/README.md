@@ -1,7 +1,6 @@
 # Fate Logos and Artwork 
 In this repo, we provide fate artwork in 2 standard formats (PNG/SVG), and in 3 versions (color/black/white). 
 
-fate
 <table class="logos-table">
 	<thead>
 		<tr>

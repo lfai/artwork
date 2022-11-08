@@ -15,6 +15,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [DataPractices](projects/datapractices)
 - [Datashim](projects/datashim)
 - [Delta](projects/delta)
+- [DocArrary](projects/docarray)
 - [Elastic Deep Learning](projects/edl)
 - [Egeria](projects/egeria)
 - [Feathr](projects/feathr)

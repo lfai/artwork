@@ -17,6 +17,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Delta](projects/delta)
 - [DocArrary](projects/docarray)
 - [Elastic Deep Learning](projects/edl)
+- [Elyra](projects/elyra)
 - [Egeria](projects/egeria)
 - [Feathr](projects/feathr)
 - [Fate](projects/fate)

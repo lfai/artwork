@@ -12,6 +12,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Amundsen](projects/amundsen)
 - [Angel ML](projects/angel)
 - [BeyondML](projects/BeyondML)
+- [CLAIMED](projects/claimed)
 - [DataPractices](projects/datapractices)
 - [Datashim](projects/datashim)
 - [Delta](projects/delta)

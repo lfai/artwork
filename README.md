@@ -11,6 +11,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [AI Fairness 360](projects/ai-fairness-360)
 - [Amundsen](projects/amundsen)
 - [Angel ML](projects/angel)
+- [Artigraph](projects/artigraph)
 - [BeyondML](projects/BeyondML)
 - [CLAIMED](projects/claimed)
 - [DataPractices](projects/datapractices)

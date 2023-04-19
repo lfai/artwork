@@ -16,6 +16,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [CLAIMED](projects/claimed)
 - [DataPractices](projects/datapractices)
 - [Datashim](projects/datashim)
+- [DeepRec](projects/DeepRec)
 - [Delta](projects/delta)
 - [DocArrary](projects/docarray)
 - [Elastic Deep Learning](projects/edl)

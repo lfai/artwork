@@ -42,6 +42,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [OpenBytes](projects/openbytes)
 - [OpenDataology](projects/opendataology)
 - [OpenDS4All](projects/opends4all)
+- [OpenFL](projects/openfl)
 - [OpenLineage](projects/openlineage)
 - [Pyro](projects/pyro)
 - [RosaeNLG](projects/rosaenlg)

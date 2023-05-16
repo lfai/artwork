@@ -33,6 +33,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Kedro](projects/kedro)
 - [Kompute](projects/kompute)
 - [KServe](projects/kserve)
+- [LakeSoul](projects/LakeSoul)
 - [Ludwig](projects/ludwig)
 - [Machine Learning Exchange](projects/mlx)
 - [Marquez](projects/marquez)

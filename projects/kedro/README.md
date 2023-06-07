@@ -49,5 +49,3 @@
 		</tr>
 	</tbody>	
 </table>
-
-kedro 	![](![]())

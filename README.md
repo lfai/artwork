@@ -47,6 +47,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [OpenLineage](projects/openlineage)
 - [Pyro](projects/pyro)
 - [RosaeNLG](projects/rosaenlg)
+- [ShaderNN](projects/ShaderNN)
 - [SOAJS](projects/soajs)
 - [Substra](projects/substra)
 - [Sparklyr](projects/sparklyr)

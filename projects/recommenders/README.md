@@ -37,6 +37,8 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 			<th colspan="1">SVG</th>
 		</tr>
 </thead>
+<tbody>
+
 	<tr>
 		<th>Color Icon</th>
 			<td><a href="icon/recommenders_color_icon.png"><img src="icon/recommenders_color_icon.png" width="200"></a></td>

@@ -1,17 +1,14 @@
 # Recommenders Logos and Artwork 
 In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), and in 3 versions (color/black/white). 
 
-<table class="logos-table">
+<table>
 	<thead>
 		<tr>
 			<th></th>
 			<th colspan="1">Logo PNG</th>
 			<th colspan="1">Logo SVG</th>
 		</tr>
-		<tr>
-			<th></th>
 
-		</tr>
 	</thead>	
     <tbody>
 		  <tr>
@@ -33,7 +30,7 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 </table>
 
 
-<table class="logos-table">
+<table>
 	<thead>
 		<tr>
 			<th></th>
@@ -41,7 +38,6 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 			<th colspan="1">Icon SVG</th>
 		</tr>
 		<tr>
-			<th></th>
 
 		</tr>
 	</thead>	

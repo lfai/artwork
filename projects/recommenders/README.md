@@ -5,13 +5,12 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 	<thead>
 		<tr>
 			<th></th>
-			<th colspan="1">PNG</th>
-			<th colspan="1">SVG</th>
+			<th colspan="1">Logo PNG</th>
+			<th colspan="1">Logo SVG</th>
 		</tr>
 		<tr>
 			<th></th>
-			<th>Icon</th>
-			<th>Icon</th>
+
 		</tr>
 	</thead>	
     <tbody>
@@ -33,3 +32,34 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 	</tbody>	
 </table>
 
+
+<table class="logos-table">
+	<thead>
+		<tr>
+			<th></th>
+			<th colspan="1">Icon PNG</th>
+			<th colspan="1">Icon SVG</th>
+		</tr>
+		<tr>
+			<th></th>
+
+		</tr>
+	</thead>	
+    <tbody>
+		  <tr>
+			  <th>Color</th>
+			  <td><a href="icon/recommenders_color_icon.png"><img src="icon/recommenders_color_icon.png" width="200"></a></td>
+			  <td><a href="icon/recommenders_color_icon.svg"><img src="icon/recommenders_color_icon.svg" width="200"></a></td>
+		  </tr>
+    <tr>
+     <th>Black</th>
+			  <td><a href="icon/recommenders_black_icon.png"><img src="icon/recommenders_black_icon.png" width="200"></a></td>
+			  <td><a href="icon/recommenders_black_icon.svg"><img src="icon/recommenders_black_icon.svg" width="200"></a></td>
+		</tr>
+      <tr>
+			<th>White</th>
+			<td><a href="icon/recommenders_white_icon.png"><img src="icon/recommenders_white_icon.png" width="200"></a></td>
+			<td><a href="icon/recommenders_color_icon.svg"><img src="icon/recommenders_white_icon.svg" width="200"></a></td>
+		</tr>
+	</tbody>	
+</table>

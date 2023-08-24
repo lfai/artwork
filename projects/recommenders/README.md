@@ -26,6 +26,17 @@ In this repo, we provide Recommenders artwork in 2 standard formats (PNG/SVG), a
 			<td><a href="white/recommenders_white.png"><img src="white/recommenders_white.png" width="200"></a></td>
 			<td><a href="white/recommenders_color.svg"><img src="white/recommenders_white.svg" width="200"></a></td>
 	</tr>
+		</tbody>	
+</table>
+
+<table class="logos-table">	
+<thead>
+		<tr>
+			<th></th>
+			<th colspan="1">PNG</th>
+			<th colspan="1">SVG</th>
+		</tr>
+</thead>
 	<tr>
 		<th>Color Icon</th>
 			<td><a href="icon/recommenders_color_icon.png"><img src="icon/recommenders_color_icon.png" width="200"></a></td>

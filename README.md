@@ -16,6 +16,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [CLAIMED](projects/claimed)
 - [DataPractices](projects/datapractices)
 - [Datashim](projects/datashim)
+- [DeepCasuality](projects/DeepCasuality)
 - [DeepRec](projects/DeepRec)
 - [Delta](projects/delta)
 - [DocArrary](projects/docarray)
@@ -54,7 +55,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Sparklyr](projects/sparklyr)
 - [TonY](projects/tony)
 - [xtreme1](projects/xtreme1)
-
+  
 ## Other Logos
 
 - [LF AI and Data Foundation](lfaidata-assets/lfaidata)

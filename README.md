@@ -29,6 +29,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [FlagAI](projects/flagai)
 - [Flyte](projects/flyte)
 - [ForestFlow](projects/forestflow)
+- [Generative AI Commons](projects/GenerativeAI)
 - [Horovod](projects/horovod)
 - [JanusGraph](projects/janusgraph)
 - [Kedro](projects/kedro)

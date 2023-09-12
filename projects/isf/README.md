@@ -26,17 +26,17 @@
 
   <tr>
    <th>Color</th>
-     <td><a href="color/Intersectional_Fairness_Logo_Color.png" download><img src="color/Intersectional_Fairness_Logo_Color.png" width="200"></a></td>
-   <td><a href="color/Intersectional_Fairness_Logo_Color_Icon.png" download><img src="color/Intersectional_Fairness_Logo_Color_Icon.png" width="75"></a></td>
-   <td><a href="color/Intersectional_Fairness_Logo_Color.svg" download><img src="color/Intersectional_Fairness_Logo_Color.svg" width="200"></a></td>
-   <td><a href="color/Intersectional_Fairness_Logo_Color_Icon.svg" download><img src="color/Intersectional_Fairness_Logo_Color_Icon.svg" width="75"></a></td>
+     <td><a href="color/Intersectional_Fairness_logo_Color.png" download><img src="color/Intersectional_Fairness_logo_Color.png" width="200"></a></td>
+   <td><a href="color/Intersectional_Fairness_logo_Color_Icon.png" download><img src="color/Intersectional_Fairness_logo_Color_Icon.png" width="75"></a></td>
+   <td><a href="color/Intersectional_Fairness_logo_Color.svg" download><img src="color/Intersectional_Fairness_logo_Color.svg" width="200"></a></td>
+   <td><a href="color/Intersectional_Fairness_logo_Color_Icon.svg" download><img src="color/Intersectional_Fairness_logo_Color_Icon.svg" width="75"></a></td>
   </tr>
 <tr>
    <th>White</th>
-     <td><a href="white/Intersectional_Fairness_Logo_White.png" download><img src="white/Intersectional_Fairness_Logo_White.png" width="200"></a></td>
-   <td><a href="white/Intersectional_Fairness_Logo_White_Icon.png" download><img src="white/Intersectional_Fairness_Logo_White_Icon.png" width="75"></a></td>
-   <td><a href="white/Intersectional_Fairness_Logo_White.svg" download><img src="white/Intersectional_Fairness_Logo_White.svg" width="200"></a></td>
-   <td><a href="white/Intersectional_Fairness_Logo_White_Icon.svg" download><img src="white/Intersectional_Fairness_Logo_White_Icon.svg" width="75"></a></td>
+     <td><a href="white/Intersectional_Fairness_logo_White.png" download><img src="white/Intersectional_Fairness_logo_White.png" width="200"></a></td>
+   <td><a href="white/Intersectional_Fairness_logo_White_Icon.png" download><img src="white/Intersectional_Fairness_logo_White_Icon.png" width="75"></a></td>
+   <td><a href="white/Intersectional_Fairness_logo_White.svg" download><img src="white/Intersectional_Fairness_logo_White.svg" width="200"></a></td>
+   <td><a href="white/Intersectional_Fairness_logo_White_Icon.svg" download><img src="white/Intersectional_Fairness_logo_White_Icon.svg" width="75"></a></td>
   </tr>
 
  </tbody>

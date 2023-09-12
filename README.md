@@ -31,6 +31,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [ForestFlow](projects/forestflow)
 - [Generative AI Commons](projects/GenerativeAI)
 - [Horovod](projects/horovod)
+- [Intersectional Fairness](projects/isf)
 - [JanusGraph](projects/janusgraph)
 - [Kedro](projects/kedro)
 - [Kompute](projects/kompute)

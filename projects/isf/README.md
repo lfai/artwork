@@ -26,12 +26,10 @@
 
   <tr>
    <th>Color</th>
-
      <td><a href="color/Intersectional_Fairness_Logo_Color.png" download><img src="color/Intersectional_Fairness_Logo_Color.png" width="200"></a></td>
    <td><a href="color/Intersectional_Fairness_Logo_Color_Icon.png" download><img src="color/Intersectional_Fairness_Logo_Color_Icon.png" width="75"></a></td>
    <td><a href="color/Intersectional_Fairness_Logo_Color.svg" download><img src="color/Intersectional_Fairness_Logo_Color.svg" width="200"></a></td>
    <td><a href="color/Intersectional_Fairness_Logo_Color_Icon.svg" download><img src="color/Intersectional_Fairness_Logo_Color_Icon.svg" width="75"></a></td>
-  
   </tr>
 <tr>
    <th>White</th>

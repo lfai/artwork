@@ -13,6 +13,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Angel ML](projects/angel)
 - [Artigraph](projects/artigraph)
 - [BeyondML](projects/BeyondML)
+- [Bitol](projects/bitol)
 - [CLAIMED](projects/claimed)
 - [DataPractices](projects/datapractices)
 - [Datashim](projects/datashim)

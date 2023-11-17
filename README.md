@@ -32,6 +32,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [ForestFlow](projects/forestflow)
 - [Generative AI Commons](projects/GenerativeAI)
 - [Horovod](projects/horovod)
+- [Interoperability](projects/Interoperability)
 - [Intersectional Fairness](projects/isf)
 - [JanusGraph](projects/janusgraph)
 - [Kedro](projects/kedro)
@@ -58,6 +59,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Substra](projects/substra)
 - [Sparklyr](projects/sparklyr)
 - [TonY](projects/tony)
+- [TrustMark](projects/TrustMark)
 - [xtreme1](projects/xtreme1)
 
 ## Other Logos

@@ -53,6 +53,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Pyro](projects/pyro)
 - [Recommenders](projects/recommenders)
 - [RosaeNLG](projects/rosaenlg)
+- [RWKV](projects/rwkv)
 - [SapientML](projects/sapientml)
 - [ShaderNN](projects/ShaderNN)
 - [SOAJS](projects/soajs)

@@ -1,6 +1,6 @@
 ## RWKV
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*deep-rec
+*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
 <table class="logos-table">
 	<thead>

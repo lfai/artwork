@@ -43,6 +43,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Machine Learning Exchange](projects/mlx)
 - [Marquez](projects/marquez)
 - [Milvus](projects/milvus)
+- [Model Openness Framework (MOF)](projects/mof)
 - [NNStreamer](projects/nnstreamer)
 - [ONNX](projects/onnx)
 - [OPEA](projects/opea)

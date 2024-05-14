@@ -34,6 +34,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Horovod](projects/horovod)
 - [Interoperability](projects/Interoperability)
 - [Intersectional Fairness](projects/isf)
+- [IREE](projects/IREE)
 - [JanusGraph](projects/janusgraph)
 - [Kedro](projects/kedro)
 - [Kompute](projects/kompute)

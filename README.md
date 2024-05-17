@@ -20,6 +20,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [DeepCausality](projects/deepcausality)
 - [DeepRec](projects/DeepRec)
 - [Delta](projects/delta)
+- [Delta Lake](projects/DeltaLake)
 - [DocArrary](projects/docarray)
 - [Elastic Deep Learning](projects/edl)
 - [Elyra](projects/elyra)

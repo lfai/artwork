@@ -65,6 +65,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Sparklyr](projects/sparklyr)
 - [TonY](projects/tony)
 - [TrustMark](projects/TrustMark)
+- [Unity Catalog](projects/unity_catalog)
 - [xtreme1](projects/xtreme1)
 
 ## Other Logos

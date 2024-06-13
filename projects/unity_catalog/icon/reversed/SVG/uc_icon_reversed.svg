@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="639px" height="650.5px" viewBox="0 0 639 650.5" style="enable-background:new 0 0 639 650.5;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Round_x0020_Corners_x0020_2_x0020_pt{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}
+	.Live_x0020_Reflect_x0020_X{fill:none;}
+	.Bevel_x0020_Soft{fill:url(#SVGID_1_);}
+	.Dusk{fill:#FFFFFF;}
+	.Foliage_GS{fill:#FFDD00;}
+	.Pompadour_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#44ADE2;}
+	.st0{fill:#163357;}
+	.st1{fill:#FFBC00;}
+	.st2{fill:#F43BA6;}
+	.st3{fill:#FFFFFF;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-3392.2837" y1="-879.1655" x2="-3391.5767" y2="-878.4584">
+	<stop  offset="0" style="stop-color:#DEDFE3"/>
+	<stop  offset="0.1783" style="stop-color:#DADBDF"/>
+	<stop  offset="0.3611" style="stop-color:#CECFD3"/>
+	<stop  offset="0.546" style="stop-color:#B9BCBF"/>
+	<stop  offset="0.7324" style="stop-color:#9CA0A2"/>
+	<stop  offset="0.9181" style="stop-color:#787D7E"/>
+	<stop  offset="1" style="stop-color:#656B6C"/>
+</linearGradient>
+<g>
+	<path class="st3" d="M317.7,215.8l-94.8,54.7V380l94.8,54.7l94.8-54.7V270.5L317.7,215.8z"/>
+	<path class="st1" d="M517.6,209.8h109l-54.5-94.4L517.6,209.8z"/>
+	<path class="st1" d="M517.6,440.6l54.6,94.5l54.5-94.5H517.6z"/>
+	<path class="st1" d="M263.1,650.5h109L317.7,556L263.1,650.5z"/>
+	<path class="st1" d="M8.7,440.6l54.6,94.5l54.6-94.5H8.7z"/>
+	<path class="st1" d="M8.7,209.8h109.1l-54.6-94.4L8.7,209.8z"/>
+	<path class="st1" d="M263.1,0l54.6,94.5L372.2,0H263.1z"/>
+	<path class="st2" d="M421.8,18.4L358.5,128l109.6,63.3l63.3-109.6L421.8,18.4z"/>
+	<path class="st2" d="M639,260.7H512.4v126.6H639V260.7z"/>
+	<path class="st2" d="M468.1,459l-109.6,63.3l63.3,109.6l109.6-63.3L468.1,459z"/>
+	<path class="st2" d="M167.3,459.1L104,568.7L213.6,632l63.3-109.6L167.3,459.1z"/>
+	<path class="st2" d="M126.6,262H0v126.6h126.6V262z"/>
+	<path class="st2" d="M213.6,18.5L104,81.8l63.3,109.6l109.6-63.3L213.6,18.5z"/>
+</g>
+</svg>

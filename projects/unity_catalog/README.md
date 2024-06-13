@@ -22,30 +22,30 @@
     <tbody>
 		<tr>
 			<th>color</th>
-			<td><a href="horizontal/color/png/uc_horizontal_color.png" download><img src="horizontal/color/png/uc_horizontal_color.png" width="200"></a></td>
-			<td><a href="stacked/color/png/uc_stacked_color.png" download><img src="stacked/color/png/uc_stacked_color.png" width="200"></a></td>
-			<td><a href="icon/color/png/uc_icon_color.png" download><img src="icon/color/png/uc_icon_color.png" width="200"></a></td>
-			<td><a href="horizontal/color/svg/uc_horizontal_color.svg" download><img src="horizontal/color/svg/uc_horizontal_color.svg" width="200"></a></td>
-			<td><a href="stacked/color/svg/uc_stacked_color.svg" download><img src="stacked/color/svg/uc_stacked_color.svg" width="200"></a></td>
-			<td><a href="icon/color/svg/uc_icon_color.svg" download><img src="icon/color/svg/uc_icon_color.svg" width="200"></a></td>
+			<td><a href="horizontal/color/PNG/uc_horizontal_color.png" download><img src="horizontal/color/PNG/uc_horizontal_color.png" width="200"></a></td>
+			<td><a href="stacked/color/PNG/uc_stacked_color.png" download><img src="stacked/color/PNG/uc_stacked_color.png" width="200"></a></td>
+			<td><a href="icon/color/PNG/uc_icon_color.png" download><img src="icon/color/PNG/uc_icon_color.png" width="200"></a></td>
+			<td><a href="horizontal/color/SVG/uc_horizontal_color.svg" download><img src="horizontal/color/SVG/uc_horizontal_color.svg" width="200"></a></td>
+			<td><a href="stacked/color/SVG/uc_stacked_color.svg" download><img src="stacked/color/SVG/uc_stacked_color.svg" width="200"></a></td>
+			<td><a href="icon/color/SVG/uc_icon_color.svg" download><img src="icon/color/SVG/uc_icon_color.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-			<td><a href="horizontal/white/png/uc_horizontal_white.png" download><img src="horizontal/white/png/uc_horizontal_white.png" width="200"></a></td>
-			<td><a href="stacked/white/png/uc_stacked_white.png" download><img src="stacked/white/png/uc_stacked_white.png" width="200"></a></td>
-			<td><a href="icon/white/png/uc_icon_white.png" download><img src="icon/white/png/uc_icon_white.png" width="200"></a></td>
-			<td><a href="horizontal/white/svg/uc_horizontal_white.svg" download><img src="horizontal/white/svg/uc_horizontal_white.svg" width="200"></a></td>
-			<td><a href="stacked/white/svg/uc_stacked_white.svg" download><img src="stacked/white/svg/uc_stacked_white.svg" width="200"></a></td>
-			<td><a href="icon/white/svg/uc_icon_white.svg" download><img src="icon/white/svg/uc_icon_white.svg" width="200"></a></td>
+			<td><a href="horizontal/white/PNG/uc_horizontal_white.png" download><img src="horizontal/white/PNG/uc_horizontal_white.png" width="200"></a></td>
+			<td><a href="stacked/white/PNG/uc_stacked_white.png" download><img src="stacked/white/PNG/uc_stacked_white.png" width="200"></a></td>
+			<td><a href="icon/white/PNG/uc_icon_white.png" download><img src="icon/white/PNG/uc_icon_white.png" width="200"></a></td>
+			<td><a href="horizontal/white/SVG/uc_horizontal_white.svg" download><img src="horizontal/white/SVG/uc_horizontal_white.svg" width="200"></a></td>
+			<td><a href="stacked/white/SVG/uc_stacked_white.svg" download><img src="stacked/white/SVG/uc_stacked_white.svg" width="200"></a></td>
+			<td><a href="icon/white/SVG/uc_icon_white.svg" download><img src="icon/white/SVG/uc_icon_white.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>
-			<td><a href="horizontal/black/png/uc_horizontal_black.png" download><img src="horizontal/black/png/uc_horizontal_black.png" width="200"></a></td>
-			<td><a href="stacked/black/png/uc_stacked_black.png" download><img src="stacked/black/png/uc_stacked_black.png" width="200"></a></td>
-			<td><a href="icon/black/png/uc_icon_black.png" download><img src="icon/black/png/uc_icon_black.png" width="200"></a></td>
-			<td><a href="horizontal/black/svg/uc_horizontal_black.svg" download><img src="horizontal/black/svg/uc_horizontal_black.svg" width="200"></a></td>
-			<td><a href="stacked/black/svg/uc_stacked_black.svg" download><img src="stacked/black/svg/uc_stacked_black.svg" width="200"></a></td>
-			<td><a href="icon/black/svg/uc_icon_blacksvg" download><img src="icon/black/svg/uc_icon_black.svg" width="200"></a></td>
+			<td><a href="horizontal/black/PNG/uc_horizontal_black.png" download><img src="horizontal/black/PNG/uc_horizontal_black.png" width="200"></a></td>
+			<td><a href="stacked/black/PNG/uc_stacked_black.png" download><img src="stacked/black/PNG/uc_stacked_black.png" width="200"></a></td>
+			<td><a href="icon/black/PNG/uc_icon_black.png" download><img src="icon/black/PNG/uc_icon_black.png" width="200"></a></td>
+			<td><a href="horizontal/black/SVG/uc_horizontal_black.svg" download><img src="horizontal/black/SVG/uc_horizontal_black.svg" width="200"></a></td>
+			<td><a href="stacked/black/SVG/uc_stacked_black.svg" download><img src="stacked/black/SVG/uc_stacked_black.svg" width="200"></a></td>
+			<td><a href="icon/black/SVG/uc_icon_blacksvg" download><img src="icon/black/SVG/uc_icon_black.svg" width="200"></a></td>
 		</tr>
 	</tbody>	
 </table>

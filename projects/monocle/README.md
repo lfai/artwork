@@ -19,12 +19,12 @@
 		<tr>
 			<th>color</th>
 			<td><a href="horizontal/color/Monocle-Logo-color.png" download><img src="horizontal/color/Monocle-Logo-Color.png" width="200"></a></td>
-			<td><a href="horizontal/color/onocle-Logo-Color.svg" download><img src="horizontal/color/Monocle-Logo-Color.svg" width="200"></a></td>
+			<td><a href="horizontal/color/Monocle-Logo-Color.svg" download><img src="horizontal/color/Monocle-Logo-Color.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>white</th>
-	    <td><a href="horizontal/color/Monocle-Logo-White.png" download><img src="horizontal/white/Monocle-Logo-White.png" width="200"></a></td>
-			<td><a href="horizontal/white/datashim-horizontal-white.svg" download><img src="horizontal/white/Monocle-Logo-White.svg" width="200"></a></td>
+	    <td><a href="horizontal/white/Monocle-Logo-White.png" download><img src="horizontal/white/Monocle-Logo-White.png" width="200"></a></td>
+			<td><a href="horizontal/white/Monocle-Logo-White.svg" download><img src="horizontal/white/Monocle-Logo-White.svg" width="200"></a></td>
 		</tr>
 		<tr>
 			<th>black</th>

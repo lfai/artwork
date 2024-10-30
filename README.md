@@ -56,6 +56,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [OpenDS4All](projects/opends4all)
 - [OpenFL](projects/openfl)
 - [OpenLineage](projects/openlineage)
+- [Open Model Initiative](projects/omi)
 - [Pyro](projects/pyro)
 - [Recommenders](projects/recommenders)
 - [RosaeNLG](projects/rosaenlg)

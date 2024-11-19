@@ -19,6 +19,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Datashim](projects/datashim)
 - [DeepCausality](projects/deepcausality)
 - [DeepRec](projects/DeepRec)
+- [DeepSpeed](projects/deepspeed)
 - [Delta](projects/delta)
 - [Delta Lake](projects/DeltaLake)
 - [DLRover](projects/dl-rover)

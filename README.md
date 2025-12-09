@@ -23,7 +23,7 @@ In this repo, we provide artwork in standard formats for the LF AI & Data projec
 - [Delta](projects/delta)
 - [Delta Lake](projects/DeltaLake)
 - [DLRover](projects/dl-rover)
-- [DocArrary](projects/docarray)
+- [DocArray](projects/docarray)
 - [Docling-graph](projects/docling-graph)
 - [Elastic Deep Learning](projects/edl)
 - [Elyra](projects/elyra)

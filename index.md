@@ -13,12 +13,6 @@ permalink: /
 
 <h3>Graduated Projects</h3>
 
-<a href="projects/acumos">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/acumos/horizontal/color/acumos-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
 <a href="projects/angel">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/angel/horizontal/color/angel-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
@@ -90,17 +84,6 @@ permalink: /
 <a href="projects/datashim">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/datashim/horizontal/color/datashim-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-<a href="projects/delta">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/delta/horizontal/color/delta-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
-<a href="projects/edl">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/edl/horizontal/color/edl-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 
@@ -182,12 +165,6 @@ permalink: /
 </div>
 </a>
 
-<a href="projects/tony">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/tony/stacked/color/TonY-stacked-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-
 <h3>Sandbox Projects</h3>
 <a href="projects/kompute">
 <div class="outer-wrapper">
@@ -198,12 +175,6 @@ permalink: /
 <a href="projects/openlineage">
 <div class="outer-wrapper">
 <div class="imagesquare"><div class="imagecontainer"><img src="projects/openlineage/horizontal/color/openlineage-horizontal-color.svg"></div><div class="imagesquarecta">View Logos »</div></div>
-</div>
-</a>
-    
-<a href="projects/rosaenlg">
-<div class="outer-wrapper">
-<div class="imagesquare"><div class="imagecontainer"><img src="projects/rosaenlg/horizontal/color/RosaeNLG-horizontal-color.svg" style="width:85%;padding-left:25%"></div><div class="imagesquarecta">View Logos »</div></div>
 </div>
 </a>
 

@@ -1,88 +1,9 @@
-# LF AI & Data Related Logos and Artwork 
-In this repo, we provide artwork in standard formats for the LF AI & Data projects and programs. We prepare artwork in 3 formats (PNG/SVG/AI), 3 layouts -- horizontal (also known as landscape format), stacked (which is closer to square), and icon (which does not include the name and is square), and 3 versions (color/black/white). So, that's at least 27 versions of most logos.
+# LF AI & Data Related Logos and Artwork
 
-## Projects
+In this repo, we have artwork in standard formats for the [LF AI and Data projects](https://lfaidata.foundation/projects) and programs. We prepare artwork in 2 formats (PNG & SVG) and at least 3 versions (color/black/white).
 
-- [1chipML](projects/1chipML)
-- [Acumos](projects/acumos)
-- [Adlik](projects/adlik)
-- [Adversarial Robustness Toolbox](projects/adversarial-robustness-toolbox)
-- [AI Explainability 360](projects/ai-explainability-360)
-- [AI Fairness 360](projects/ai-fairness-360)
-- [Amundsen](projects/amundsen)
-- [Angel ML](projects/angel)
-- [Artigraph](projects/artigraph)
-- [BeyondML](projects/BeyondML)
-- [Bitol](projects/bitol)
-- [CLAIMED](projects/claimed)
-- [DataPractices](projects/datapractices)
-- [Datashim](projects/datashim)
-- [DeepCausality](projects/deepcausality)
-- [DeepRec](projects/DeepRec)
-- [DeepSpeed](projects/deepspeed)
-- [Delta](projects/delta)
-- [Delta Lake](projects/DeltaLake)
-- [DLRover](projects/dl-rover)
-- [DocArray](projects/docarray)
-- [Docling-graph](projects/docling-graph)
-- [Elastic Deep Learning](projects/edl)
-- [Elyra](projects/elyra)
-- [Egeria](projects/egeria)
-- [Feathr](projects/feathr)
-- [Fate](projects/fate)
-- [Feast](projects/feast)
-- [FlagAI](projects/flagai)
-- [Flyte](projects/flyte)
-- [ForestFlow](projects/forestflow)
-- [Generative AI Commons](projects/GenerativeAI)
-- [Horovod](projects/horovod)
-- [Interoperability](projects/Interoperability)
-- [Intersectional Fairness](projects/isf)
-- [IREE](projects/IREE)
-- [JanusGraph](projects/janusgraph)
-- [Kedro](projects/kedro)
-- [Kompute](projects/kompute)
-- [LakeSoul](projects/LakeSoul)
-- [Ludwig](projects/ludwig)
-- [Machine Learning Exchange](projects/mlx)
-- [Marquez](projects/marquez)
-- [Milvus](projects/milvus)
-- [Model Openness Framework (MOF)](projects/mof)
-- [Monocle](projects/monocle)
-- [NNStreamer](projects/nnstreamer)
-- [ONNX](projects/onnx)
-- [OPEA](projects/opea)
-- [OpenBytes](projects/openbytes)
-- [OpenDataology](projects/opendataology)
-- [OpenDS4All](projects/opends4all)
-- [OpenFL](projects/openfl)
-- [OpenLineage](projects/openlineage)
-- [Open Model Initiative](projects/omi)
-- [Pyro](projects/pyro)
-- [Recommenders](projects/recommenders)
-- [RosaeNLG](projects/rosaenlg)
-- [Ryoma](projects/ryoma)
-- [RWKV](projects/rwkv)
-- [SapientML](projects/sapientml)
-- [ShaderNN](projects/ShaderNN)
-- [SOAJS](projects/soajs)
-- [Substra](projects/substra)
-- [Sparklyr](projects/sparklyr)
-- [TonY](projects/tony)
-- [TrustMark](projects/TrustMark)
-- [Unity Catalog](projects/unity_catalog)
-- [vLLM](projects/vllm)
-- [xtreme1](projects/xtreme1)
+With many browsers, you can right click and copy the logo of your choice below. Please note that although PNG is more common, SVG file sizes are smaller, supported in all modern web browsers, and a high-resolution format suitable for both print and high-resolution computer screens.
 
-## Other Logos
+Use of any trademark or logo is subject to the trademark policy available at [linuxfoundation.org/trademark-usage](https://www.linuxfoundation.org/trademark-usage) with the key excepts available at [LICENSE.md](LICENSE.md). Refer to the [ASWF Brand Book](aswf-brand-book.pdf) for guidelines on how to use the logo.
 
-- [LF AI and Data Foundation](lfaidata-assets/lfaidata)
-- [LF AI and Data Landscape](lfaidata-assets/lfaidata-landscape)
-- [LF AI and Data Foundation Member](lfaidata-assets/lfaidata-membership-badge)
-- [LF AI and Data Project](lfaidata-assets/lfaidata-project-badge)
-- [Linux Foundation Member Logos](lfaidata-assets/lf-member)
-- [Egeria Conformance](lfaidata-assets/egeria-conformance)
-
-Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
-
-Questions? Please email info@lfai.foundation.
+Questions? Please email [support@lfaidata.foundation](mailto:support@lfaidata.foundation).

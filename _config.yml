@@ -1,14 +1,47 @@
 name: LF AI & Data Foundation Logos and Artwork
-title: LF AI & Data Foundation Logos and Artwork 
+title: LF AI & Data Foundation Logos and Artwork
 description: >-
   Logos and artwork for LF AI & Data Foundation and it's hosted projects
 
 # Settings
 github_repo: https://github.com/lfai/artwork
-top_logo: lfaidata-assets/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
+header_image: assets/img/header-background.jpg
+header_logo: other/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
+primary_logo: other/lfaidata/horizontal/color/lfaidata-horizontal-color.svg
+logo_categories:
+  - Projects
+  - Working Groups
+  - Other Logos
 
 plugins:
   - jekyll-redirect-from
 
 whitelist:
   - jekyll-redirect-from
+
+defaults:
+  - scope:
+      path: "other"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Other Logos"
+  - scope:
+      path: "projects"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Projects"
+  - scope:
+      path: "working-groups"     # directory (relative to site root)
+      type: "pages"    # usually "pages"
+    values:
+      layout: "logos"
+      level: "Working Groups"
+
+# don't touch ;-)
+readme_index:
+  with_frontmatter: true
+plugins:
+  - jekyll-remote-theme
+remote_theme: jmertic/artwork-template

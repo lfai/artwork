@@ -1,4 +1,4 @@
 ---
-title: "monocle"
-featured_image: "horizontal/color/monocle-horizontal-color.svg"
+featured_image: primary/color/monocle-primary-color.svg
+title: monocle
 ---

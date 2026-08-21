@@ -1,4 +1,4 @@
 ---
-title: "SOAJS"
-featured_image: "horizontal/color/soajs-horizontal-color.svg"
+featured_image: primary/color/soajs-primary-color.svg
+title: SOAJS
 ---

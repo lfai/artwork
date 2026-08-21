@@ -1,4 +1,4 @@
 ---
-title: "Bitol"
-featured_image: "horizontal/color/bitol-horizontal-color.svg"
+featured_image: primary/color/bitol-primary-color.svg
+title: Bitol
 ---

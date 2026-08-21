@@ -1,4 +1,4 @@
 ---
-title: "AI Fairness 360"
-featured_image: "horizontal/color/aifairness-horizontal-color.png"
+featured_image: primary/color/aifairness-primary-color.svg
+title: AI Fairness 360
 ---

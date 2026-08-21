@@ -1,4 +1,4 @@
 ---
-title: "JanusGraph"
-featured_image: "horizontal/color/janusgraph-horizontal-color.svg"
+featured_image: primary/color/janusgraph-primary-color.svg
+title: JanusGraph
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Docling"
-featured_image: "horizontal/color/docling-horizontal-color.svg"
+featured_image: primary/color/docling-primary-color.svg
+title: Docling
 ---

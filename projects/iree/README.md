@@ -1,4 +1,4 @@
 ---
-title: "IREE"
-featured_image: "horizontal/color/iree-horizontal-color.svg"
+featured_image: primary/color/iree-primary-color.svg
+title: IREE
 ---

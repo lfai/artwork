@@ -1,4 +1,4 @@
 ---
-title: "AIRSEAI"
-featured_image: stacked/color/airseai-stacked-color.svg
+featured_image: primary/color/airseai-primary-color.svg
+title: AIRSEAI
 ---

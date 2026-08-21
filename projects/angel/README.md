@@ -1,4 +1,4 @@
 ---
-title: "Angel"
-featured_image: "horizontal/color/angel-horizontal-color.svg"
+featured_image: primary/color/angel-primary-color.svg
+title: Angel
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Horovod"
-featured_image: "horizontal/color/horovod-horizontal-color.png"
+featured_image: primary/color/horovod-primary-color.svg
+title: Horovod
 ---

@@ -1,4 +1,4 @@
 ---
-title: "ONNX"
-featured_image: "horizontal/color/lfai-onnx-horizontal-color.svg"
+featured_image: primary/color/lfai-onnx-primary-color.svg
+title: ONNX
 ---

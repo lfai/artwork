@@ -1,4 +1,4 @@
 ---
-title: "Feast"
-featured_image: "horizontal/color/feast-horizontal-color.png"
+featured_image: primary/color/feast-primary-color.svg
+title: Feast
 ---

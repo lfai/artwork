@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/sapientml-primary-color.svg
 title: SapientML
-featured_image: horizontal/positive/sapientml-horizontal-positive.svg
 ---

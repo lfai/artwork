@@ -1,4 +1,4 @@
 ---
-title: "Elyra"
-featured_image: "horizontal/color/elyra-horizontal-color.svg"
+featured_image: primary/color/elyra-primary-color.svg
+title: Elyra
 ---

@@ -1,4 +1,4 @@
 ---
-title: "DeepCausality"
-featured_image: "horizontal/color/deepcausality-horizontal-color.svg"
+featured_image: primary/color/deepcausality-primary-color.svg
+title: DeepCausality
 ---

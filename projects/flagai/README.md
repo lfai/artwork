@@ -1,4 +1,4 @@
 ---
-title: "FlagAI"
-featured_image: "horizontal/color/flagai-horizontal-color.svg"
+featured_image: primary/color/flagai-primary-color.svg
+title: FlagAI
 ---

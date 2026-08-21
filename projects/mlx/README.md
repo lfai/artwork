@@ -1,4 +1,4 @@
 ---
-title: "Machine Learning eXchange (MLX)"
-featured_image: "stacked/color/mlx-stacked-color.svg"
+featured_image: primary/color/mlx-primary-color.svg
+title: Machine Learning eXchange (MLX)
 ---

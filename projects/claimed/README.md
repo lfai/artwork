@@ -1,4 +1,4 @@
 ---
-title: "CLAIMED"
-featured_image: "stacked/color/claimed-stacked-color.svg"
+featured_image: primary/color/claimed-primary-color.svg
+title: CLAIMED
 ---

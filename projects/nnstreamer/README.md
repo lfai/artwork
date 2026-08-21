@@ -1,4 +1,4 @@
 ---
-title: "Neural Network (NN) Streamer"
-featured_image: "horizontal/color/nnstreamer-horizontal-color.png"
+featured_image: primary/color/nnstreamer-primary-color.svg
+title: Neural Network (NN) Streamer
 ---

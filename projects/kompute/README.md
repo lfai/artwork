@@ -1,4 +1,4 @@
 ---
-title: "Kompute"
-featured_image: "horizontal/color/kompute-horizontal-color.svg"
+featured_image: primary/color/kompute-primary-color.svg
+title: Kompute
 ---

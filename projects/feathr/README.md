@@ -1,4 +1,4 @@
 ---
-title: "Feathr"
-featured_image: "horizontal/color/feathr-horizontal-color.png"
+featured_image: primary/color/feathr-primary-color.svg
+title: Feathr
 ---

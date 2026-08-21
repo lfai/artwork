@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/sparklyr-primary-color.svg
 title: sparklyr
-featured_image: horizontal/color/sparklyr-horizontal-color.svg
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Amundsen"
-featured_image: "horizontal/color/amundsen-horizontal-color.png"
+featured_image: primary/color/amundsen-primary-color.svg
+title: Amundsen
 ---

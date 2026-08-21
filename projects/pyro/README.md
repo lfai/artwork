@@ -1,4 +1,4 @@
 ---
-title: "Pyro"
-featured_image: "horizontal/color/pyro-horizontal-color.svg"
+featured_image: primary/color/pyro-primary-color.svg
+title: Pyro
 ---

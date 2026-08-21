@@ -1,4 +1,4 @@
 ---
-title: "Adlik"
-featured_image: "horizontal/color/adlik-horizontal-color.svg"
+featured_image: primary/color/adlik-primary-color.svg
+title: Adlik
 ---

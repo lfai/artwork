@@ -1,4 +1,4 @@
 ---
-title: "Delta Lake Project"
-featured_image: "horizontal/color/deltalake-horizontal-color.png"
+featured_image: primary/color/deltalake-primary-color.svg
+title: Delta Lake Project
 ---

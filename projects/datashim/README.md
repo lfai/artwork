@@ -1,4 +1,4 @@
 ---
-title: "Datashim"
-featured_image: "horizontal/color/datashim-horizontal-color.svg"
+featured_image: primary/color/datashim-primary-color.svg
+title: Datashim
 ---

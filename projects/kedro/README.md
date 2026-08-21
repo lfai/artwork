@@ -1,4 +1,4 @@
 ---
-title: "Kedro Project"
-featured_image: "horizontal/color/kedro-horizontal-color.svg"
+featured_image: primary/color/kedro-primary-color.svg
+title: Kedro Project
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Unity Catalog"
-featured_image: horizontal/color/unity-catalog-horizontal-color.svg
+featured_image: primary/color/unity-catalog-primary-color.svg
+title: Unity Catalog
 ---

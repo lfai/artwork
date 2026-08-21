@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/dlrover-primary-color.svg
 title: DLRover
-featured_image: horizontal/color/dlrover-horizontal-color.svg
 ---

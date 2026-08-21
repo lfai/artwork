@@ -1,4 +1,4 @@
 ---
-title: "Ryoma"
-featured_image: "horizontal/color/ryoma-horizontal-color.svg"
+featured_image: primary/color/ryoma-primary-color.svg
+title: Ryoma
 ---

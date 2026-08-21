@@ -1,4 +1,4 @@
 ---
-title: "Milvus"
-featured_image: "horizontal/color/lfai-milvus-horizontal-color.svg"
+featured_image: primary/color/lfai-milvus-primary-color.svg
+title: Milvus
 ---

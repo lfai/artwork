@@ -1,4 +1,4 @@
 ---
-title: "Open Voice Network Interoperability Initiative"
-featured_image: horizontal/color/open-voice-network-interoperability-initiative-horizontal-color.svg
+featured_image: primary/color/open-voice-network-interoperability-initiative-primary-color.svg
+title: Open Voice Network Interoperability Initiative
 ---

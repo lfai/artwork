@@ -1,4 +1,4 @@
 ---
-title: "SQLMesh"
-featured_image: horizontal/color/sqlmesh-horizontal-color.svg
+featured_image: primary/color/sqlmesh-primary-color.svg
+title: SQLMesh
 ---

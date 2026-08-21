@@ -1,4 +1,4 @@
 ---
-title: "Flyte"
-featured_image: "horizontal/color/flyte-horizontal-color.svg"
+featured_image: primary/color/flyte-primary-color.svg
+title: Flyte
 ---

@@ -1,4 +1,4 @@
 ---
-title: "DeepRec"
-featured_image: "horizontal/color/deeprec-horizontal-color.svg"
+featured_image: primary/color/deeprec-primary-color.svg
+title: DeepRec
 ---

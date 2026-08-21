@@ -1,4 +1,4 @@
 ---
-title: "AI Explainability 360"
-featured_image: "horizontal/color/aiexplainability-horizontal-color.svg"
+featured_image: primary/color/aiexplainability-primary-color.svg
+title: AI Explainability 360
 ---

@@ -1,4 +1,4 @@
 ---
-title: "Adversarial Robustness Toolbox"
-featured_image: "horizontal/color/airobustness-horizontal-color.svg"
+featured_image: primary/color/airobustness-primary-color.svg
+title: Adversarial Robustness Toolbox
 ---

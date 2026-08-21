@@ -1,4 +1,4 @@
 ---
-title: "Open Lineage"
-featured_image: horizontal/color/open-lineage-horizontal-color.svg
+featured_image: primary/color/open-lineage-primary-color.svg
+title: Open Lineage
 ---

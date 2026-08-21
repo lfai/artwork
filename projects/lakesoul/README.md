@@ -1,4 +1,4 @@
 ---
-title: "LakeSoul"
-featured_image: "horizontal/color/lakesoul-horizontal-color.svg"
+featured_image: primary/color/lakesoul-primary-color.svg
+title: LakeSoul
 ---

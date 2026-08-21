@@ -1,23 +1,20 @@
-name: LF AI & Data Foundation Logos and Artwork
 title: LF AI & Data Foundation Logos and Artwork
 description: >-
   Logos and artwork for LF AI & Data Foundation and it's hosted projects
 
 # Settings
+primary_logo: other/lfaidata/horizontal/color/lfaidata-horizontal-color.svg
+header_logo: other/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
 github_repo: https://github.com/lfai/artwork
 header_image: assets/img/header-background.jpg
-header_logo: other/lfaidata/horizontal/white/lfaidata-horizontal-white.svg
-primary_logo: other/lfaidata/horizontal/color/lfaidata-horizontal-color.svg
+theme_color_1: 3a56e9
+theme_color_2: 008f65
 logo_categories:
   - Projects
   - Working Groups
   - Other Logos
-
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
+ga_tracking_id: 360578303
+clotributor_category_default: Visual Effects and Computer Graphics
 
 defaults:
   - scope:
@@ -42,6 +39,13 @@ defaults:
 # don't touch ;-)
 readme_index:
   with_frontmatter: true
-plugins:
-  - jekyll-remote-theme
-remote_theme: jmertic/artwork-template
+#plugins:
+#  - jekyll-remote-theme
+#remote_theme: jmertic/artwork-template
+theme: artwork-template
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - lfess-artwork

@@ -1,4 +1,4 @@
 ---
+featured_image: primary/color/recommenders-primary-color.svg
 title: Recommenders
-featured_image: "horizontal/color/recommenders-horizontal-color.svg"
 ---

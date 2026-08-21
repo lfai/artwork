@@ -39,10 +39,9 @@ defaults:
 # don't touch ;-)
 readme_index:
   with_frontmatter: true
-#plugins:
-#  - jekyll-remote-theme
-#remote_theme: jmertic/artwork-template
-theme: artwork-template
+plugins:
+  - jekyll-remote-theme
+remote_theme: jmertic/artwork-template
 exclude:
   - vendor
   - node_modules

@@ -1,3 +1,4 @@
 ---
-level: Archived
+title: NNTrainer
+featured_image: ''
 ---

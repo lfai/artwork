@@ -1,3 +1,4 @@
 ---
-level: Archived
+title: OpenTeleEval
+featured_image: ''
 ---

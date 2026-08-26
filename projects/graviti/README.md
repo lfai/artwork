@@ -1,4 +1,3 @@
 ---
-title: "OpenBytes"
-featured_image: ""
+level: Archived
 ---

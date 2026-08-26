@@ -1,4 +1,5 @@
 ---
-title: "mof"
-featured_image: "horizontal/color/mof-horizontal-color.svg"
+title: mof
+featured_image: horizontal/color/mof-horizontal-color.svg
+level: Archived
 ---

@@ -1,5 +1,5 @@
 ---
-title: OpenSharing
-featured_image: horizontal/color/opensharing-horizontal-color.svg
+featured_image: primary/color/opensharing-primary-color.svg
 level: Archived
+title: OpenSharing
 ---

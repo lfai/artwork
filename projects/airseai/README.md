@@ -1,4 +1,4 @@
 ---
-project: airseai
-featured_image: horizontal/color/airseai-horizontal-color.svg
+project: AIRSEAI
+featured_image: primary/color/airseai-primary-color.svg
 ---

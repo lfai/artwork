@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: jmertic/lfx-tac-actions@60c5cb28ac5ea2f02d8919573662900d9e23828f # 20261030
+      - uses: jmertic/lfx-tac-actions@13097c41322c4d3b77ff202c67eb4de5e1a9439b # 20261123
         with:
           updateprojects: false
           updatetacmembers: false
